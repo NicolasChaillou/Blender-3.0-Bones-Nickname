@@ -27,3 +27,6 @@ Bones should match reality
 Left and right might be indicated with .L .R
 Maximum of bones should be consider
 
+Video Presentation coming soon
+My Bones List:
+https://airtable.com/shrnw8uTNKl6vnFba
