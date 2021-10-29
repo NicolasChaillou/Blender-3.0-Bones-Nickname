@@ -1,5 +1,6 @@
 # Blender-3.0-Bones-Nickname
-This Add-on permit to change bone names in Blender 3.0 (min 2.8)
+This Add-on permit to change bone names in One click in Blender 3 (min 2.8)
+Names of bones are based on Human Bone Names. Bones Application covered: Make Human, Mixamo, Rigify...
 
 # MIT License
 
